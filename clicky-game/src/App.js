@@ -1,26 +1,32 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import NAV from "./components/NAV";
+import Card from "./components/Card";
+import Header from "./components/Header";
+import Wrapper from "./components/Wrapper";
+import kirbys from "./kirbys.json"
 
 class App extends Component {
+state ={
+  message: "Select a Kirby to start!",
+  highScore: 0,
+  currentScore: 0,
+  kirbys: kirbys,
+  notPicked: kirbys
+}
+
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+   <Wrapper>
+     <NAV 
+      message={this.state.message}
+      currentScore={this.state.currentScore}
+      highScore={this.state.highScore}
+     />
+     <Header/>
+
+     </Wrapper>
     );
   }
 }
