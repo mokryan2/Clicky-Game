@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Captain Falcon Kirby",
+        "image": "../images/captain-falcon-kirby.png"
+    },
+    {
+        "name": "King DDD Kirby",
+        "image": "../images/ddd-kirby.png"
+    },
+    {
+        "name": "Donkey Kong Kirby",
+        "image": "../images/dk-kirby.png"
+    },
+    {
+        "name": "Ganondorf Kirby",
+        "image": "../images/ganandorf-kirby.png"
+    },
+    {
+        "name": "Ike Kirby",
+        "image": "../images/ike-kirby.png"
+    },
+    {
+        "name": "Ivysaur Kirby",
+        "image": "../images/ivysaur-kirby.png"
+    },
+    {
+        "name": "Luigi Kirby",
+        "image": "../images/luigi-kirby.png"
+    },
+    {
+        "name": "Mario Kirby",
+        "image": "../images/mario-kirby.png"
+    },
+    {
+        "name": "Nana Kirby",
+        "image": "../images/nana-kirby.png"
+    },
+    {
+        "name": "Popo Kirby",
+        "image": "../images/popo-kirby.png"
+    },
+    {
+        "name": "Rob Kirby",
+        "image": "../images/rob-kirby.png"
+    },
+    {
+        "name": "Samus Kirby",
+        "image": "../images/samus-kirby.png"
+    },
+    {
+        "name": "Shiek Kirby",
+        "image": "../images/Shiek-kirby.png"
+    },
+    {
+        "name": "Snake Kirby",
+        "image": "../images/Snake-kirby.png"
+    },
+    {
+        "name": "Wario Kirby",
+        "image": "../images/Wario-kirby.png"
+    },
+    {
+        "name": "Wolf Kirby",
+        "image": "../images/Wolf-kirby.png"
+    },
+    {
+        "name": "Zelda Kirby",
+        "image": "../images/Zelda-kirby.png"
+    }
+]
