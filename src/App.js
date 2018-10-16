@@ -25,6 +25,9 @@ state ={
       highScore={this.state.highScore}
      />
      <Header/>
+     <Card
+     
+     />
 
      </Wrapper>
     );

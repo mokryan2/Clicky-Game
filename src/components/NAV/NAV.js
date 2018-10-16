@@ -3,7 +3,7 @@ import "./NAV.css"
 
 const NAV = props => (
     <div>
-        <ul class="nav justify-content-center">
+        <ul className="nav justify-content-center">
             <li>
                 <a href="/">Kirby Memory Game</a>
             </li>
