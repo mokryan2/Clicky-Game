@@ -42,7 +42,7 @@ class App extends Component {
         message: "Keep Going!",
         currentScore: this.state.currentScore + 1,
         kirbys: kirbys,
-        notPicked: kirbys
+        notPicked: newKirby
       });
     }
     this.randomArray(kirbys);
@@ -61,7 +61,8 @@ class App extends Component {
           <Card
             name={kirby.name}
             image={kirby.image}
-
+            selectKirby={this.selectKirby}
+            currentScore={this.currentScore}
           />
         ))}
       </Wrapper>
