@@ -3,11 +3,14 @@ import "./NAV.css"
 
 const NAV = props => (
     <div>
-        <ul className="nav justify-content-center">
+        <ul className="nav nav-bar justify-content-center">
             <li>
                 <a href="/">Kirby Memory Game</a>
             </li>
-            <li>
+            <li className={props.message.indexOf("incorrectly" !== -1 ?
+                "desc-incorrect" :
+                "desc-normal")}
+            >
                 {props.message}
             </li>
             <li>
