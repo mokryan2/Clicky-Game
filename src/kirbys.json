@@ -66,5 +66,17 @@
     {
         "name": "Zelda Kirby",
         "image": "../images/Zelda-kirby.png"
+    },
+    {
+        "name": "Pacman Kirby",
+        "image": "../images/pacman-kirby.png"
+    },
+    {
+        "name": "Jigglypuff Kirby",
+        "image": "../images/jigglypuff-kirby.png"
+    },
+    {
+        "name": "Ness Kirby",
+        "image": "../images/ness-kirby.png"
     }
 ]

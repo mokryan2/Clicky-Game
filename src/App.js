@@ -15,8 +15,7 @@ class App extends Component {
     notPicked: kirbys
   }
 
-  componentDidMount() { }
-
+  // Randomizes the array
   randomArray = array => {
     for (let i = array.length - 1; i > 0; i--) {
       let j = Math.floor(Math.random() * (i + 1));
@@ -24,9 +23,9 @@ class App extends Component {
     }
   }
 
+  // Selector for the app
   selectKirby = name => {
     const findKirby = this.state.notPicked.find(kirby => kirby.name === name);
-
     if (findKirby === undefined) {
       this.setState({
         message: "Try Again!",
@@ -48,6 +47,7 @@ class App extends Component {
     this.randomArray(kirbys);
   }
 
+  // Renders React page
   render() {
     return (
       <Wrapper>
