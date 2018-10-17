@@ -49,23 +49,23 @@
     },
     {
         "name": "Shiek Kirby",
-        "image": "../images/Shiek-kirby.PNG"
+        "image": "../images/shiek-kirby.PNG"
     },
     {
         "name": "Snake Kirby",
-        "image": "../images/Snake-kirby.PNG"
+        "image": "../images/snake-kirby.PNG"
     },
     {
         "name": "Wario Kirby",
-        "image": "../images/Wario-kirby.PNG"
+        "image": "../images/wario-kirby.PNG"
     },
     {
         "name": "Wolf Kirby",
-        "image": "../images/Wolf-kirby.PNG"
+        "image": "../images/wolf-kirby.PNG"
     },
     {
         "name": "Zelda Kirby",
-        "image": "../images/Zelda-kirby.PNG"
+        "image": "../images/zelda-kirby.PNG"
     },
     {
         "name": "Pacman Kirby",
