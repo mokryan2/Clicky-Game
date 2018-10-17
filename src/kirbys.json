@@ -1,82 +1,82 @@
 [
     {
         "name": "Captain Falcon Kirby",
-        "image": "../images/captain-falcon-kirby.png"
+        "image": "../images/captain-falcon-kirby.PNG"
     },
     {
         "name": "King DDD Kirby",
-        "image": "../images/ddd-kirby.png"
+        "image": "../images/ddd-kirby.PNG"
     },
     {
         "name": "Donkey Kong Kirby",
-        "image": "../images/dk-kirby.png"
+        "image": "../images/dk-kirby.PNG"
     },
     {
         "name": "Ganondorf Kirby",
-        "image": "../images/ganondorf-kirby.png"
+        "image": "../images/ganondorf-kirby.PNG"
     },
     {
         "name": "Ike Kirby",
-        "image": "../images/ike-kirby.png"
+        "image": "../images/ike-kirby.PNG"
     },
     {
         "name": "Ivysaur Kirby",
-        "image": "../images/ivysaur-kirby.png"
+        "image": "../images/ivysaur-kirby.PNG"
     },
     {
         "name": "Luigi Kirby",
-        "image": "../images/luigi-kirby.png"
+        "image": "../images/luigi-kirby.PNG"
     },
     {
         "name": "Mario Kirby",
-        "image": "../images/mario-kirby.png"
+        "image": "../images/mario-kirby.PNG"
     },
     {
         "name": "Nana Kirby",
-        "image": "../images/nana-kirby.png"
+        "image": "../images/nana-kirby.PNG"
     },
     {
         "name": "Popo Kirby",
-        "image": "../images/popo-kirby.png"
+        "image": "../images/popo-kirby.PNG"
     },
     {
         "name": "Rob Kirby",
-        "image": "../images/rob-kirby.png"
+        "image": "../images/rob-kirby.PNG"
     },
     {
         "name": "Samus Kirby",
-        "image": "../images/samus-kirby.png"
+        "image": "../images/samus-kirby.PNG"
     },
     {
         "name": "Shiek Kirby",
-        "image": "../images/Shiek-kirby.png"
+        "image": "../images/Shiek-kirby.PNG"
     },
     {
         "name": "Snake Kirby",
-        "image": "../images/Snake-kirby.png"
+        "image": "../images/Snake-kirby.PNG"
     },
     {
         "name": "Wario Kirby",
-        "image": "../images/Wario-kirby.png"
+        "image": "../images/Wario-kirby.PNG"
     },
     {
         "name": "Wolf Kirby",
-        "image": "../images/Wolf-kirby.png"
+        "image": "../images/Wolf-kirby.PNG"
     },
     {
         "name": "Zelda Kirby",
-        "image": "../images/Zelda-kirby.png"
+        "image": "../images/Zelda-kirby.PNG"
     },
     {
         "name": "Pacman Kirby",
-        "image": "../images/pacman-kirby.png"
+        "image": "../images/pacman-kirby.PNG"
     },
     {
         "name": "Jigglypuff Kirby",
-        "image": "../images/jigglypuff-kirby.png"
+        "image": "../images/jigglypuff-kirby.PNG"
     },
     {
         "name": "Ness Kirby",
-        "image": "../images/ness-kirby.png"
+        "image": "../images/ness-kirby.PNG"
     }
 ]
