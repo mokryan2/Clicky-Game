@@ -16,8 +16,26 @@ h5{
     font-weight: bolder;
 }
 
-@media screen and (max-width: 930px){
+@media screen and (max-width: 1370px){
     .header{
-        margin-top:10%;
+        margin-top:8%;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .header{
+        margin-top:20%;
+    }
+}
+
+@media screen and (max-width: 685px){
+    .header{
+        margin-top:30%;
+    }
+}
+
+@media screen and (max-width: 465px){
+    .header{
+        margin-top:50%;
     }
 }
